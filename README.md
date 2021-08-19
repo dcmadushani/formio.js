@@ -26,6 +26,7 @@ This library has a very powerful JSON form builder, and can be used like the fol
 ```html
 <html>
   <head>
+    <meta charset="utf-8">
     <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css'>
     <link rel='stylesheet' href='https://cdn.form.io/formiojs/formio.full.min.css'>
     <script src='https://cdn.form.io/formiojs/formio.full.min.js'></script>
